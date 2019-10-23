@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://wakanda-thor:KhalDrogo7@cluster0-edlib.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "baseURL": "http://localhost:5000"
+}
